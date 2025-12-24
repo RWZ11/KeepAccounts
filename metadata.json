@@ -1,0 +1,8 @@
+{
+  "name": "KeepAccounts",
+  "description": "A comprehensive, intelligent bookkeeping application featuring expense tracking, account management, and AI-powered categorization and financial advice.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
